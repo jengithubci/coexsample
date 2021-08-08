@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kvgQxKIB/a20/zkgVd2SvXJrMa6ndlIFLhXNKiy0iXQdpmX/yQ06y0yM3ZrtR43Py5NESfVs2iu2s3BL99hLZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\001Z3U744\\IBM\\Cloud Offerings\\Coexistence and Interoperability\\SampleAPI\\SampleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\001Z3U744\\.nuget\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
+    "C:\\Users\\001Z3U744\\.nuget\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",
+    "C:\\Users\\001Z3U744\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
